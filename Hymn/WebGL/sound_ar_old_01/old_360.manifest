@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 955583865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7ec826b0aea7b561011ed6c1f0a8811
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/AR/Old/Type01/old_360.mp3
+Dependencies: []
