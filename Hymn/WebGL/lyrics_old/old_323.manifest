@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4077851460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9221d64ea791c332ff24d7576b25490f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Text/old/old_323.txt
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 271220474
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eb83773405ed896be717bbdf3105a6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Text/new/new_219.txt
+Dependencies: []

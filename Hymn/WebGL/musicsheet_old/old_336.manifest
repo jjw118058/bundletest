@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2327387937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 479b8677f38a987b5381c50d17393d55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Img/old/old_336.jpg
+Dependencies: []

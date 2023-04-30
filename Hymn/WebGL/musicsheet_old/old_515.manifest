@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3038042360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c40556ae4fbae2cacdc27e55e5c295c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Img/old/old_515.jpg
+Dependencies: []
