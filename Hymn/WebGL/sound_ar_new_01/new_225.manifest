@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2815888516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77a19f75f063b677831a0164acb8f4f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/AR/New/Type01/new_225.mp3
+Dependencies: []
