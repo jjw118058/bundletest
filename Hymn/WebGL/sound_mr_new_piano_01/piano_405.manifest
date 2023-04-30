@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1623368014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd7873c9dc2b2a80602c75d49d08b2e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_405.mp3
+Dependencies: []

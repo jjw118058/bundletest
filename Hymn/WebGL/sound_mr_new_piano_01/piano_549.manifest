@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2774737709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 837bc3601d18382f7aa2b3f228ab280f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_549.mp3
+Dependencies: []

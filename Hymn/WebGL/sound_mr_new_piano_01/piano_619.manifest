@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4005446183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 139fc75de0da7cdf2089e2ce3cec701e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_619.mp3
+Dependencies: []

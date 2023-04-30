@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1676814942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33fbb9fbccd7158ab20edf7e72d3488f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_448.mp3
+Dependencies: []
