@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 420965495
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85a0b8bacedb3afe43a68941465eef50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_542.mp3
+Dependencies: []

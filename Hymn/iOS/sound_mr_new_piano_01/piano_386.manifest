@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4291464046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd62a7214c9dc1558c9f513e153ecd4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_386.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4157636337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e91548828b742f71bb4f4bd2f883b833
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_534.mp3
+Dependencies: []

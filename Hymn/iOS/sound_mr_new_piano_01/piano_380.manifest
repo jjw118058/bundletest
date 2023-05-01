@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2477551215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4ff7aefac4ac5acb49b6d3d2db9796a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_380.mp3
+Dependencies: []

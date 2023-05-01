@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4116136900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 392591d7c525676bdb9cfbd77f02b4e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_593.mp3
+Dependencies: []
