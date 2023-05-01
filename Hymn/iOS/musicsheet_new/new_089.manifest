@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3757402939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6f6dc328c6e857a9f3804725fcdc0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Img/new/new_089.JPG
+Dependencies: []

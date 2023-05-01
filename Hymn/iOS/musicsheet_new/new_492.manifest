@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 297440189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ba3247d9881cd07ea0b16b07ac0da29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Img/new/new_492.JPG
+Dependencies: []

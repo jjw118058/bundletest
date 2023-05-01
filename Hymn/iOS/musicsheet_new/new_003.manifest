@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 952392788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6cdfa7a50e3a4beb2554d21b83c8de4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Img/new/new_003.JPG
+Dependencies: []
