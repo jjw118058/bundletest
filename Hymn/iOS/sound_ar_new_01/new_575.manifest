@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1549775339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b778f8a17f0271b97101b5107b802877
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/AR/New/Type01/new_575.mp3
+Dependencies: []
