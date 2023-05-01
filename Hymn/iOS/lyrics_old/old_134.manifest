@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3596321251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd05da665e43aa1db4433642655a79fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Text/old/old_134.txt
+Dependencies: []
