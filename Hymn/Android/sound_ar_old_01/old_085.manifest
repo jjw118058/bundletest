@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 535647546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d4fdc0f3f7cc359552f4e5085a1114c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/AR/Old/Type01/old_085.mp3
+Dependencies: []
