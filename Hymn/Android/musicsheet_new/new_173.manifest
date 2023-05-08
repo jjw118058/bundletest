@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2059524745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18e3c2e7d26b002d74b0614b8e19b5f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Img/new/new_173.JPG
+Dependencies: []
