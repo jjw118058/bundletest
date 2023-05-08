@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1077807670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf89eb43d7c919bc50336ee44a1b92a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Hymn_Text/old/old_365.txt
+Dependencies: []
