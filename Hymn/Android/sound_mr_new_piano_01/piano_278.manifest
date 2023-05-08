@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2008786291
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7340c1e38c899aa645b0405b136e1981
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_278.mp3
+Dependencies: []

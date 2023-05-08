@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2877958200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58f9411da15709d4d249e7b0a8e94f47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_093.mp3
+Dependencies: []
