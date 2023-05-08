@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3409395203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4af3cf7a70f2a300ea92fda6ea43097
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_641.mp3
+Dependencies: []

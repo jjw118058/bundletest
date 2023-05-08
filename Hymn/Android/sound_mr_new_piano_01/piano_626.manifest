@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1502862453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36e4bf44cd26b111f8b33dbdf8b08402
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_626.mp3
+Dependencies: []

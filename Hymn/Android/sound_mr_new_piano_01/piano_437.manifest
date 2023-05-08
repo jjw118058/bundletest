@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3750868425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bca160a24c932918109eb4d92f5e3ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_437.mp3
+Dependencies: []

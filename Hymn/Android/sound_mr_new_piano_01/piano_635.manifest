@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2732707578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8dc69cea7b738818f6d53a97b84c123c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_635.mp3
+Dependencies: []

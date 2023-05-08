@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4094510056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db85e626496026e93ffe94af01b8ff30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Sound/MR/New/Piano/Type01/piano_358.mp3
+Dependencies: []
